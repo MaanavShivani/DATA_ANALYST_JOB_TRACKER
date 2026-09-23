@@ -1,0 +1,16 @@
+
+
+.env
+
+
+*.csv
+*.json
+data/
+*.ipynb
+Internshala_Jobs_listings
+Jobs_list
+Jobs_listings
+wellfoundjobs
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
